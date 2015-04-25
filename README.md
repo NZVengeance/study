@@ -1,2 +1,2 @@
 # study
-A place for my coding study to go (primarily JAVASCRIPT
+A place for my coding study to go (primarily JAVASCRIPT)
